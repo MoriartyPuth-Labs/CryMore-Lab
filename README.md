@@ -16,6 +16,7 @@ A technical analysis and exploit demonstration for the "CryMore" challenge. This
 * Difficulty: 🟢 1.3/6.0 
 * Quality: ⭐ 4.0/5.0 
 * Download: https://crackmes.one/download/crackme/69778aa352ed08086d855c77
+* Password: crackmes.one
 
 ---
 
