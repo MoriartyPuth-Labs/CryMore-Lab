@@ -1,5 +1,7 @@
 # CryMore Lab
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/310b6f6c-7766-4e0b-8549-00ed90b2a249" />
+
 A technical analysis and exploit demonstration for the "CryMore" challenge. This lab focuses on intercepting network traffic to bypass a binary's internal killswitch logic.
 
 ---
